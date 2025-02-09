@@ -1,5 +1,13 @@
 # Blue-Archive-Assets-Converter
 
+## This repository is archived (for now)
+
+The reason why I archived this repo is because, first of all, this software is currently unusable due to a specification change on the game side,
+
+and I have lost interest in Blue Archive and have no intention of fixing it
+
+If I get interested again, I will unarchive it and resume development
+
 ## What does this program do
 
 Restore the original names of Catalog-type asset files such as MediaCatalog and TableCatalog
