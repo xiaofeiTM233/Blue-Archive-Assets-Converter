@@ -4,9 +4,9 @@
 
 The reason why I archived this repo is because, first of all, this software is currently unusable due to a specification change on the game side,
 
-and I have lost interest in Blue Archive and have no intention of fixing it
+and I have lost interest in Blue Archive so I have no intention of fixing it
 
-If I get interested again, I will unarchive it and resume development
+If I get interested again, I will unarchive this repo and resume development
 
 ## What does this program do
 
